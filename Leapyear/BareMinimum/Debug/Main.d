@@ -32,7 +32,8 @@ Main.d Main.o: .././Main.cpp ..\\..\ArduinoCore\include\core/Arduino.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\util\delay.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\util\delay_basic.h \
  ..\\..\ArduinoCore\include\core/Arduino.h \
- ..\\..\ArduinoCore\include\variants\mega/pins_arduino.h
+ ..\\..\ArduinoCore\include\variants\mega/pins_arduino.h \
+ .././Calculate/CalculateYear.h
 
 ..\\..\ArduinoCore\include\core/Arduino.h:
 
@@ -103,3 +104,5 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\
 ..\\..\ArduinoCore\include\core/Arduino.h:
 
 ..\\..\ArduinoCore\include\variants\mega/pins_arduino.h:
+
+.././Calculate/CalculateYear.h:
