@@ -18,7 +18,7 @@ void setup() {
 	pinMode(yellowPin, OUTPUT);
 	pinMode(redPin, OUTPUT);
 
-
+}
 void loop() {
 	
 	unsigned long currentMillis = millis();

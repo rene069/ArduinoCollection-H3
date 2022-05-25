@@ -5,7 +5,7 @@
 void setup() {
 	
 	pinMode(2,OUTPUT);
-	pinMode(4,INPUT_PULLUP); //Input pullup to save a resistor
+	pinMode(4,INPUT_PULLUP); 
 
 }
 
