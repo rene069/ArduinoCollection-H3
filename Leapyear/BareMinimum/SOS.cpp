@@ -1,5 +1,10 @@
 #include <Arduino.h>
 
+//Step 1: 3 Dots
+//step 2: 3 Dashes
+//Step 3 3 Dots
+//step 4 Small Pause then repeat
+
 const int yellowPin =  2;
 const int redPin = 4;
 int ledState = LOW;
