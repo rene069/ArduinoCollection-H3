@@ -77,6 +77,7 @@
       <Value>%24(ProjectDir)\..\ArduinoCore\include\core</Value>
       <Value>%24(ProjectDir)\..\ArduinoCore\include\variants\mega</Value>
       <Value>..\include\libraries\LiquidCrystal\src</Value>
+      <Value>..\include\libraries\Keypad\src</Value>
     </ListValues>
   </avrgcc.compiler.directories.IncludePaths>
   <avrgcc.compiler.optimization.level>Optimize for size (-Os)</avrgcc.compiler.optimization.level>
@@ -106,6 +107,7 @@
       <Value>%24(ProjectDir)\..\ArduinoCore\include\core</Value>
       <Value>%24(ProjectDir)\..\ArduinoCore\include\variants\mega</Value>
       <Value>..\include\libraries\LiquidCrystal\src</Value>
+      <Value>..\include\libraries\Keypad\src</Value>
     </ListValues>
   </avrgcccpp.compiler.directories.IncludePaths>
   <avrgcccpp.compiler.optimization.level>Optimize for size (-Os)</avrgcccpp.compiler.optimization.level>
@@ -160,6 +162,7 @@
       <Value>%24(ProjectDir)\..\ArduinoCore\include\core</Value>
       <Value>%24(ProjectDir)\..\ArduinoCore\include\variants\mega</Value>
       <Value>..\include\libraries\LiquidCrystal\src</Value>
+      <Value>..\include\libraries\Keypad\src</Value>
     </ListValues>
   </avrgcc.compiler.directories.IncludePaths>
   <avrgcc.compiler.optimization.level>Optimize for size (-Os)</avrgcc.compiler.optimization.level>
@@ -189,6 +192,7 @@
       <Value>%24(ProjectDir)\..\ArduinoCore\include\core</Value>
       <Value>%24(ProjectDir)\..\ArduinoCore\include\variants\mega</Value>
       <Value>..\include\libraries\LiquidCrystal\src</Value>
+      <Value>..\include\libraries\Keypad\src</Value>
     </ListValues>
   </avrgcccpp.compiler.directories.IncludePaths>
   <avrgcccpp.compiler.optimization.level>Optimize for size (-Os)</avrgcccpp.compiler.optimization.level>
@@ -249,23 +253,51 @@
     <Folder Include="Calculate" />
     <Folder Include="include\" />
     <Folder Include="include\libraries\" />
+    <Folder Include="include\libraries\Keypad\" />
+    <Folder Include="include\libraries\Keypad\src\" />
     <Folder Include="include\libraries\LiquidCrystal\" />
     <Folder Include="include\libraries\LiquidCrystal\src\" />
     <Folder Include="src\" />
     <Folder Include="src\libraries\" />
+    <Folder Include="src\libraries\Keypad\" />
+    <Folder Include="src\libraries\Keypad\src\" />
     <Folder Include="src\libraries\LiquidCrystal\" />
     <Folder Include="src\libraries\LiquidCrystal\src\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="include\libraries\Keypad\src\Key.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="include\libraries\Keypad\src\Keypad.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="include\libraries\LiquidCrystal\src\LiquidCrystal.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Termostat.cpp">
+    <None Include="PWNDiode.cpp">
       <SubType>compile</SubType>
-    </Compile>
+    </None>
+    <None Include="Termostat.cpp">
+      <SubType>compile</SubType>
+    </None>
     <None Include="Temperatur.cpp">
       <SubType>compile</SubType>
     </None>
+    <None Include="RGB.cpp">
+      <SubType>compile</SubType>
+    </None>
+    <None Include="RGPtemperatur.cpp">
+      <SubType>compile</SubType>
+    </None>
+    <Compile Include="Keypad.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="src\libraries\Keypad\src\Key.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="src\libraries\Keypad\src\Keypad.cpp">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="src\libraries\LiquidCrystal\src\LiquidCrystal.cpp">
       <SubType>compile</SubType>
     </Compile>
