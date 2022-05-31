@@ -1,37 +1,9 @@
 Archive member included to satisfy reference by file (symbol)
 
-C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                              Pointer.o (_ZN14HardwareSerial5beginEmh)
-C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                              Pointer.o (Serial)
-C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o (main)
-C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                              src/libraries/LiquidCrystal/src/LiquidCrystal.o (_ZN5Print5writeEPKhj)
-C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                              src/libraries/Keypad/src/Keypad.o (millis)
-C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                              src/libraries/Keypad/src/Keypad.o (pinMode)
-C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(abi.o)
-                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
-C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
-                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
-                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
+                              Pointmath.o (__addsf3)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o) (__addsf3x)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
-                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
-                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o) (__divsf3x)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
-                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
-                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o) (__fp_cmp)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_inf)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
@@ -46,12 +18,40 @@ c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/..
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_split3)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_zero)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
-                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
-                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__mulsf3)
+                              Pointmath.o (__mulsf3)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o) (__mulsf3x)
+C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                              Pointmath.o (_ZN14HardwareSerial5beginEmh)
+C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                              Pointmath.o (Serial)
+C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o (main)
+C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              src/libraries/LiquidCrystal/src/LiquidCrystal.o (_ZN5Print5writeEPKhj)
+C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                              src/libraries/Keypad/src/Keypad.o (millis)
+C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                              src/libraries/Keypad/src/Keypad.o (pinMode)
+C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
+                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+                              C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
                               C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
@@ -61,7 +61,7 @@ c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/..
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
                               C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o) (__tablejump2__)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
-                              Pointer.o (__do_copy_data)
+                              Pointmath.o (__do_copy_data)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
                               C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o) (__do_clear_bss)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
@@ -73,54 +73,54 @@ Discarded input sections
 
  .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
  .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
- .group         0x00000000        0x8 Pointer.o
- .text          0x00000000        0x0 Pointer.o
- .data          0x00000000        0x0 Pointer.o
- .bss           0x00000000        0x0 Pointer.o
+ .group         0x00000000        0x8 Pointmath.o
+ .text          0x00000000        0x0 Pointmath.o
+ .data          0x00000000        0x0 Pointmath.o
+ .bss           0x00000000        0x0 Pointmath.o
  .rodata._ZL2SS
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL4MOSI
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL4MISO
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL3SCK
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL3SDA
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL3SCL
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL2A0
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL2A1
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL2A2
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL2A3
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL2A4
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL2A5
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL2A6
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL2A7
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL2A8
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL2A9
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL3A10
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL3A11
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL3A12
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL3A13
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL3A14
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .rodata._ZL3A15
-                0x00000000        0x1 Pointer.o
+                0x00000000        0x1 Pointmath.o
  .text          0x00000000        0x0 src/libraries/Keypad/src/Key.o
  .data          0x00000000        0x0 src/libraries/Keypad/src/Key.o
  .bss           0x00000000        0x0 src/libraries/Keypad/src/Key.o
@@ -422,6 +422,39 @@ Discarded input sections
  .debug_str     0x00000000      0x935 src/libraries/LiquidCrystal/src/LiquidCrystal.o
  .comment       0x00000000       0x31 src/libraries/LiquidCrystal/src/LiquidCrystal.o
  .debug_frame   0x00000000      0x4b8 src/libraries/LiquidCrystal/src/LiquidCrystal.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
  .group         0x00000000        0x8 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .text          0x00000000        0x0 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .data          0x00000000        0x0 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
@@ -458,12 +491,8 @@ Discarded input sections
                 0x00000000       0x48 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printERK6String
                 0x00000000       0x1c C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .text._ZN5Print5printEc
-                0x00000000        0xe C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printERK9Printable
                 0x00000000       0x14 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .rodata.str1.1
-                0x00000000        0xf C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEv
                 0x00000000        0x8 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEPK19__FlashStringHelper
@@ -492,10 +521,6 @@ Discarded input sections
                 0x00000000       0x24 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEli
                 0x00000000       0x24 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .text._ZN5Print10printFloatEdh
-                0x00000000      0x1b6 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .text._ZN5Print5printEdi
-                0x00000000        0x4 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEdi
                 0x00000000       0x24 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .rodata._ZTV5Print
@@ -571,101 +596,30 @@ Discarded input sections
  .debug_str     0x00000000      0x140 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
  .comment       0x00000000       0x31 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
  .debug_frame   0x00000000       0x24 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
- .text.avr-libc.fplib
-                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
- .text.avr-libc.fplib
-                0x00000000       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
- .text.avr-libc.fplib
-                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
- .text.avr-libc.fplib
-                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
- .text.avr-libc.fplib
-                0x00000000       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
- .text.avr-libc.fplib
-                0x00000000       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
- .text.avr-libc.fplib
-                0x00000000       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
- .text.avr-libc.fplib
-                0x00000000       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
- .text.avr-libc.fplib
-                0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
- .text.avr-libc.fplib
-                0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
- .text.avr-libc.fplib
-                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
- .text.avr-libc.fplib
-                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
- .text.avr-libc.fplib
-                0x00000000       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
- .text.avr-libc.fplib
-                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
- .text.avr-libc.fplib
-                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
- .text.avr-libc.fplib
-                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
- .text.avr-libc.fplib
-                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
- .text.avr-libc.fplib
-                0x00000000       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
- .text.avr-libc.fplib
-                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
@@ -781,7 +735,7 @@ Linker script and memory map
 
 Address of section .data set to 0x800200
 LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
-LOAD Pointer.o
+LOAD Pointmath.o
 LOAD src/libraries/Keypad/src/Key.o
 LOAD src/libraries/Keypad/src/Keypad.o
 LOAD src/libraries/LiquidCrystal/src/LiquidCrystal.o
@@ -897,7 +851,7 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000      0x95c
+.text           0x00000000     0x1000
  *(.vectors)
  .vectors       0x00000000       0xe4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
                 0x00000000                __vector_default
@@ -1016,89 +970,169 @@ END GROUP
                 0x00000144                . = ALIGN (0x2)
  *(.text.*)
  .text._ZN14HardwareSerial5beginEm
-                0x00000144       0x42 Pointer.o
+                0x00000144       0x42 Pointmath.o
                 0x00000144                _ZN14HardwareSerial5beginEm
- .text.setup    0x00000186       0xd0 Pointer.o
+ .text.setup    0x00000186       0xe6 Pointmath.o
                 0x00000186                setup
- .text.loop     0x00000256       0x10 Pointer.o
-                0x00000256                loop
+ .text.loop     0x0000026c       0x10 Pointmath.o
+                0x0000026c                loop
+ .text._Z3addPfS_S_
+                0x0000027c       0xbc Pointmath.o
+                0x0000027c                _Z3addPfS_S_
+ .text.avr-libc.fplib
+                0x00000338        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+                0x00000338                __subsf3
+                0x0000033a                __addsf3
+ .text.avr-libc.fplib
+                0x00000342       0xc0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+                0x0000035c                __addsf3x
+ .text.avr-libc.fplib
+                0x00000402        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+                0x00000402                __fp_inf
+ .text.avr-libc.fplib
+                0x0000040e        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+                0x0000040e                __fp_nan
+ .text.avr-libc.fplib
+                0x00000414        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+                0x00000414                __fp_pscA
+ .text.avr-libc.fplib
+                0x00000422        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+                0x00000422                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000430       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+                0x00000430                __fp_round
+ .text.avr-libc.fplib
+                0x00000452       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+                0x00000452                __fp_split3
+                0x00000462                __fp_splitA
+ .text.avr-libc.fplib
+                0x00000496        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+                0x00000496                __fp_zero
+                0x00000498                __fp_szero
+ .text.avr-libc.fplib
+                0x000004a4        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+                0x000004a4                __mulsf3
+ .text.avr-libc.fplib
+                0x000004a8       0xc2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                0x000004bc                __mulsf3x
+                0x000004c0                __mulsf3_pse
  .text._ZN14HardwareSerial9availableEv
-                0x00000266       0x18 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00000266                _ZN14HardwareSerial9availableEv
+                0x0000056a       0x18 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000056a                _ZN14HardwareSerial9availableEv
  .text._ZN14HardwareSerial4peekEv
-                0x0000027e       0x1c C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x0000027e                _ZN14HardwareSerial4peekEv
+                0x00000582       0x1c C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000582                _ZN14HardwareSerial4peekEv
  .text._ZN14HardwareSerial4readEv
-                0x0000029a       0x28 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x0000029a                _ZN14HardwareSerial4readEv
+                0x0000059e       0x28 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000059e                _ZN14HardwareSerial4readEv
  .text._ZN14HardwareSerial17availableForWriteEv
-                0x000002c2       0x1e C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x000002c2                _ZN14HardwareSerial17availableForWriteEv
+                0x000005c6       0x1e C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000005c6                _ZN14HardwareSerial17availableForWriteEv
  .text._Z14serialEventRunv
-                0x000002e0       0x78 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x000002e0                _Z14serialEventRunv
+                0x000005e4       0x78 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000005e4                _Z14serialEventRunv
  .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
-                0x00000358       0x44 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00000358                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x0000065c       0x44 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000065c                _ZN14HardwareSerial17_tx_udr_empty_irqEv
  .text._ZN14HardwareSerial5writeEh
-                0x0000039c       0x98 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x0000039c                _ZN14HardwareSerial5writeEh
+                0x000006a0       0x98 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000006a0                _ZN14HardwareSerial5writeEh
  .text._ZN14HardwareSerial5flushEv
-                0x00000434       0x42 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00000434                _ZN14HardwareSerial5flushEv
+                0x00000738       0x42 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000738                _ZN14HardwareSerial5flushEv
  .text._ZN14HardwareSerial5beginEmh
-                0x00000476       0xc6 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00000476                _ZN14HardwareSerial5beginEmh
+                0x0000077a       0xc6 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000077a                _ZN14HardwareSerial5beginEmh
  .text.__vector_25
-                0x0000053c       0x6c C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x0000053c                __vector_25
+                0x00000840       0x6c C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000840                __vector_25
  .text.__vector_26
-                0x000005a8       0x52 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x000005a8                __vector_26
+                0x000008ac       0x52 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000008ac                __vector_26
  .text._Z17Serial0_availablev
-                0x000005fa       0x12 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x000005fa                _Z17Serial0_availablev
+                0x000008fe       0x12 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000008fe                _Z17Serial0_availablev
  .text.startup._GLOBAL__sub_I___vector_25
-                0x0000060c       0x5a C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000910       0x5a C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .text.initVariant
-                0x00000666        0x2 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                0x00000666                initVariant
+                0x0000096a        0x2 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x0000096a                initVariant
  .text.startup.main
-                0x00000668       0x14 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                0x00000668                main
+                0x0000096c       0x14 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x0000096c                main
  .text._ZN5Print5writeEPKhj
-                0x0000067c       0x54 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x0000067c                _ZN5Print5writeEPKhj
+                0x00000980       0x54 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000980                _ZN5Print5writeEPKhj
  .text._ZN5Print5writeEPKc
-                0x000006d0       0x2a C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x000006d0                _ZN5Print5writeEPKc
+                0x000009d4       0x2a C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x000009d4                _ZN5Print5writeEPKc
  .text._ZN5Print5printEPKc
-                0x000006fa        0x2 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x000006fa                _ZN5Print5printEPKc
+                0x000009fe        0x2 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x000009fe                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x00000a00        0xe C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000a00                _ZN5Print5printEc
  .text._ZN5Print11printNumberEmh
-                0x000006fc       0x8e C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x000006fc                _ZN5Print11printNumberEmh
+                0x00000a0e       0x8e C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000a0e                _ZN5Print11printNumberEmh
  .text._ZN5Print5printEmi
-                0x0000078a       0x18 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x0000078a                _ZN5Print5printEmi
+                0x00000a9c       0x18 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000a9c                _ZN5Print5printEmi
  .text._ZN5Print5printEji
-                0x000007a2        0xa C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x000007a2                _ZN5Print5printEji
+                0x00000ab4        0xa C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000ab4                _ZN5Print5printEji
+ .text._ZN5Print10printFloatEdh
+                0x00000abe      0x18e C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000abe                _ZN5Print10printFloatEdh
+ .text._ZN5Print5printEdi
+                0x00000c4c        0x2 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c4c                _ZN5Print5printEdi
  .text.__vector_23
-                0x000007ac       0x94 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x000007ac                __vector_23
- .text.init     0x00000840       0xc4 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00000840                init
+                0x00000c4e       0x94 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000c4e                __vector_23
+ .text.init     0x00000ce2       0xc4 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000ce2                init
+ .text.avr-libc.fplib
+                0x00000da6        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+                0x00000da6                __nesf2
+                0x00000da6                __eqsf2
+                0x00000da6                __cmpsf2
+                0x00000da6                __ltsf2
+                0x00000da6                __lesf2
+ .text.avr-libc.fplib
+                0x00000dae        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
+                0x00000dae                __divsf3
+ .text.avr-libc.fplib
+                0x00000db2       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                0x00000dc8                __divsf3x
+                0x00000dcc                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000e7e       0x58 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+                0x00000e7e                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00000ed6       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+                0x00000ed6                __floatunsisf
+                0x00000eda                __floatsisf
+ .text.avr-libc.fplib
+                0x00000f50       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+                0x00000f50                __fp_cmp
+ .text.avr-libc.fplib
+                0x00000f98        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+                0x00000f98                __gesf2
+                0x00000f98                __gtsf2
+ .text.avr-libc.fplib
+                0x00000fa0        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
+                0x00000fa0                __unordsf2
  .text.libgcc.div
-                0x00000904       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
-                0x00000904                __udivmodsi4
- .text.libgcc   0x00000948       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
-                0x00000948                __tablejump2__
-                0x00000958                . = ALIGN (0x2)
+                0x00000fa8       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                0x00000fa8                __udivmodsi4
+ .text.libgcc   0x00000fec       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                0x00000fec                __tablejump2__
+                0x00000ffc                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x00000958        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
-                0x00000958                _exit
-                0x00000958                exit
+ .fini9         0x00000ffc        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                0x00000ffc                _exit
+                0x00000ffc                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -1117,50 +1151,53 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x00000958        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .fini0         0x00000ffc        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
  *(.fini0)
-                0x0000095c                _etext = .
+                0x00001000                _etext = .
 
-.data           0x00800200       0x1a load address 0x0000095c
+.data           0x00800200       0x2a load address 0x00001000
                 0x00800200                PROVIDE (__data_start, .)
  *(.data)
  *(.data*)
  *(.gnu.linkonce.d*)
  *(.rodata)
- .rodata        0x00800200        0x8 Pointer.o
+ .rodata        0x00800200        0x8 Pointmath.o
  *(.rodata*)
  .rodata._ZTV14HardwareSerial
                 0x00800208       0x12 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                 0x00800208                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x0080021a        0xf C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  *(.gnu.linkonce.r*)
-                0x0080021a                . = ALIGN (0x2)
-                0x0080021a                _edata = .
-                0x0080021a                PROVIDE (__data_end, .)
+                0x0080022a                . = ALIGN (0x2)
+ *fill*         0x00800229        0x1 
+                0x0080022a                _edata = .
+                0x0080022a                PROVIDE (__data_end, .)
 
-.bss            0x0080021a       0xa6
-                0x0080021a                PROVIDE (__bss_start, .)
+.bss            0x0080022a       0xa6
+                0x0080022a                PROVIDE (__bss_start, .)
  *(.bss)
  *(.bss*)
- .bss.Serial    0x0080021a       0x9d C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x0080021a                Serial
+ .bss.Serial    0x0080022a       0x9d C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0080022a                Serial
  .bss.timer0_fract
-                0x008002b7        0x1 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008002c7        0x1 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .bss.timer0_millis
-                0x008002b8        0x4 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x008002b8                timer0_millis
+                0x008002c8        0x4 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008002c8                timer0_millis
  .bss.timer0_overflow_count
-                0x008002bc        0x4 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x008002bc                timer0_overflow_count
+                0x008002cc        0x4 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008002cc                timer0_overflow_count
  *(COMMON)
-                0x008002c0                PROVIDE (__bss_end, .)
-                0x0000095c                __data_load_start = LOADADDR (.data)
-                0x00000976                __data_load_end = (__data_load_start + SIZEOF (.data))
+                0x008002d0                PROVIDE (__bss_end, .)
+                0x00001000                __data_load_start = LOADADDR (.data)
+                0x0000102a                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x008002c0        0x0
+.noinit         0x008002d0        0x0
                 [!provide]                PROVIDE (__noinit_start, .)
  *(.noinit*)
                 [!provide]                PROVIDE (__noinit_end, .)
-                0x008002c0                _end = .
+                0x008002d0                _end = .
                 [!provide]                PROVIDE (__heap_start, .)
 
 .eeprom         0x00810000        0x0
@@ -1202,7 +1239,7 @@ END GROUP
 
 .comment        0x00000000       0x30
  *(.comment)
- .comment       0x00000000       0x30 Pointer.o
+ .comment       0x00000000       0x30 Pointmath.o
                                  0x31 (size before relaxing)
  .comment       0x00000030       0x31 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .comment       0x00000030       0x31 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
@@ -1230,86 +1267,86 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x00000000      0x258
+.debug_aranges  0x00000000      0x260
  *(.debug_aranges)
  .debug_aranges
-                0x00000000       0x30 Pointer.o
+                0x00000000       0x38 Pointmath.o
  .debug_aranges
-                0x00000030       0x68 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000038       0x68 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .debug_aranges
-                0x00000098       0x48 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000000a0       0x48 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .debug_aranges
-                0x000000e0       0x30 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x000000e8       0x30 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .debug_aranges
-                0x00000110      0x100 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000118      0x100 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .debug_aranges
-                0x00000210       0x48 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000218       0x48 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0x7a2b
+.debug_info     0x00000000     0x7a73
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000      0xbbc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
- .debug_info    0x00000bbc      0x382 Pointer.o
- .debug_info    0x00000f3e     0x205e C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_info    0x00002f9c     0x1b74 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_info    0x00004b10      0x295 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_info    0x00004da5     0x295d C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_info    0x00007702      0x329 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x00000bbc      0x3ca Pointmath.o
+ .debug_info    0x00000f86     0x205e C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x00002fe4     0x1b74 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x00004b58      0x295 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00004ded     0x295d C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x0000774a      0x329 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
 
-.debug_abbrev   0x00000000     0x1bd3
+.debug_abbrev   0x00000000     0x1bee
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0xb1a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
- .debug_abbrev  0x00000b1a      0x147 Pointer.o
- .debug_abbrev  0x00000c61      0x4b7 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_abbrev  0x00001118      0x3ce C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_abbrev  0x000014e6      0x12d C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_abbrev  0x00001613      0x47a C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_abbrev  0x00001a8d      0x146 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x00000b1a      0x162 Pointmath.o
+ .debug_abbrev  0x00000c7c      0x4b7 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00001133      0x3ce C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00001501      0x12d C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x0000162e      0x47a C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x00001aa8      0x146 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
 
-.debug_line     0x00000000     0x1651
+.debug_line     0x00000000     0x167d
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x00000000      0x1fa C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
- .debug_line    0x000001fa      0x1fb Pointer.o
- .debug_line    0x000003f5      0x527 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_line    0x0000091c      0x288 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_line    0x00000ba4      0x161 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_line    0x00000d05      0x681 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_line    0x00001386      0x2cb C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x000001fa      0x227 Pointmath.o
+ .debug_line    0x00000421      0x527 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00000948      0x288 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x00000bd0      0x161 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x00000d31      0x681 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x000013b2      0x2cb C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
 
-.debug_frame    0x00000000      0x728
+.debug_frame    0x00000000      0x748
  *(.debug_frame)
- .debug_frame   0x00000000       0x74 Pointer.o
- .debug_frame   0x00000074      0x110 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_frame   0x00000184       0xe0 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_frame   0x00000264       0x54 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_frame   0x000002b8      0x3ac C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_frame   0x00000664       0xc4 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x00000000       0x94 Pointmath.o
+ .debug_frame   0x00000094      0x110 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x000001a4       0xe0 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x00000284       0x54 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x000002d8      0x3ac C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00000684       0xc4 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
 
-.debug_str      0x00000000     0x2213
+.debug_str      0x00000000     0x2232
  *(.debug_str)
  .debug_str     0x00000000      0x3e6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega2560/avr6/crtatmega2560.o
- .debug_str     0x000003e6      0x29d Pointer.o
-                                0x2f6 (size before relaxing)
- .debug_str     0x00000683     0x1534 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_str     0x000003e6      0x2bc Pointmath.o
+                                0x315 (size before relaxing)
+ .debug_str     0x000006a2     0x1534 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                                0x16ee (size before relaxing)
- .debug_str     0x00001bb7       0xca C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_str     0x00001bd6       0xca C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                                0x1409 (size before relaxing)
- .debug_str     0x00001c81       0x37 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_str     0x00001ca0       0x37 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
                                 0x2b5 (size before relaxing)
- .debug_str     0x00001cb8      0x3f1 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_str     0x00001cd7      0x3f1 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
                                0x1243 (size before relaxing)
- .debug_str     0x000020a9      0x16a C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_str     0x000020c8      0x16a C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                                 0x24b (size before relaxing)
 
-.debug_loc      0x00000000     0x266a
+.debug_loc      0x00000000     0x26b2
  *(.debug_loc)
- .debug_loc     0x00000000       0xca Pointer.o
- .debug_loc     0x000000ca      0x4dc C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_loc     0x000005a6      0x1b0 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_loc     0x00000756     0x1c87 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_loc     0x000023dd      0x28d C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00000000      0x112 Pointmath.o
+ .debug_loc     0x00000112      0x4dc C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x000005ee      0x1b0 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x0000079e     0x1c87 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x00002425      0x28d C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -1329,14 +1366,14 @@ END GROUP
 .debug_pubtypes
  *(.debug_pubtypes)
 
-.debug_ranges   0x00000000      0x228
+.debug_ranges   0x00000000      0x230
  *(.debug_ranges)
- .debug_ranges  0x00000000       0x20 Pointer.o
- .debug_ranges  0x00000020       0x58 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_ranges  0x00000078       0x38 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_ranges  0x000000b0       0x20 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_ranges  0x000000d0      0x120 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_ranges  0x000001f0       0x38 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000000       0x28 Pointmath.o
+ .debug_ranges  0x00000028       0x58 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x00000080       0x38 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x000000b8       0x20 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x000000d8      0x120 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x000001f8       0x38 C:\Users\renep\Documents\Atmel Studio\7.0\Leapyear\Leapyear\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
 
 .debug_macro
  *(.debug_macro)

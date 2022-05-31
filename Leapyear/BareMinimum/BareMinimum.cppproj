@@ -296,7 +296,10 @@
     <None Include="Keypad.cpp">
       <SubType>compile</SubType>
     </None>
-    <Compile Include="Pointer.cpp">
+    <None Include="Pointer.cpp">
+      <SubType>compile</SubType>
+    </None>
+    <Compile Include="Pointmath.cpp">
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="src\libraries\Keypad\src\Key.cpp">
