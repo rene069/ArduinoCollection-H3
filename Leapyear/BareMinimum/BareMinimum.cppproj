@@ -78,6 +78,14 @@
             <Value>%24(ProjectDir)\..\ArduinoCore\include\variants\mega</Value>
             <Value>..\include\libraries\LiquidCrystal\src</Value>
             <Value>..\include\libraries\Keypad\src</Value>
+            <Value>..\include\libraries\Servo\src</Value>
+            <Value>..\include\libraries\Servo\src\avr</Value>
+            <Value>..\include\libraries\Servo\src\mbed</Value>
+            <Value>..\include\libraries\Servo\src\megaavr</Value>
+            <Value>..\include\libraries\Servo\src\nrf52</Value>
+            <Value>..\include\libraries\Servo\src\sam</Value>
+            <Value>..\include\libraries\Servo\src\samd</Value>
+            <Value>..\include\libraries\Servo\src\stm32f4</Value>
           </ListValues>
         </avrgcc.compiler.directories.IncludePaths>
         <avrgcc.compiler.optimization.level>Optimize for size (-Os)</avrgcc.compiler.optimization.level>
@@ -108,6 +116,14 @@
             <Value>%24(ProjectDir)\..\ArduinoCore\include\variants\mega</Value>
             <Value>..\include\libraries\LiquidCrystal\src</Value>
             <Value>..\include\libraries\Keypad\src</Value>
+            <Value>..\include\libraries\Servo\src</Value>
+            <Value>..\include\libraries\Servo\src\avr</Value>
+            <Value>..\include\libraries\Servo\src\mbed</Value>
+            <Value>..\include\libraries\Servo\src\megaavr</Value>
+            <Value>..\include\libraries\Servo\src\nrf52</Value>
+            <Value>..\include\libraries\Servo\src\sam</Value>
+            <Value>..\include\libraries\Servo\src\samd</Value>
+            <Value>..\include\libraries\Servo\src\stm32f4</Value>
           </ListValues>
         </avrgcccpp.compiler.directories.IncludePaths>
         <avrgcccpp.compiler.optimization.level>Optimize for size (-Os)</avrgcccpp.compiler.optimization.level>
@@ -163,6 +179,14 @@
             <Value>%24(ProjectDir)\..\ArduinoCore\include\variants\mega</Value>
             <Value>..\include\libraries\LiquidCrystal\src</Value>
             <Value>..\include\libraries\Keypad\src</Value>
+            <Value>..\include\libraries\Servo\src</Value>
+            <Value>..\include\libraries\Servo\src\avr</Value>
+            <Value>..\include\libraries\Servo\src\mbed</Value>
+            <Value>..\include\libraries\Servo\src\megaavr</Value>
+            <Value>..\include\libraries\Servo\src\nrf52</Value>
+            <Value>..\include\libraries\Servo\src\sam</Value>
+            <Value>..\include\libraries\Servo\src\samd</Value>
+            <Value>..\include\libraries\Servo\src\stm32f4</Value>
           </ListValues>
         </avrgcc.compiler.directories.IncludePaths>
         <avrgcc.compiler.optimization.OtherFlags>-fno-threadsafe-statics</avrgcc.compiler.optimization.OtherFlags>
@@ -192,6 +216,14 @@
             <Value>%24(ProjectDir)\..\ArduinoCore\include\variants\mega</Value>
             <Value>..\include\libraries\LiquidCrystal\src</Value>
             <Value>..\include\libraries\Keypad\src</Value>
+            <Value>..\include\libraries\Servo\src</Value>
+            <Value>..\include\libraries\Servo\src\avr</Value>
+            <Value>..\include\libraries\Servo\src\mbed</Value>
+            <Value>..\include\libraries\Servo\src\megaavr</Value>
+            <Value>..\include\libraries\Servo\src\nrf52</Value>
+            <Value>..\include\libraries\Servo\src\sam</Value>
+            <Value>..\include\libraries\Servo\src\samd</Value>
+            <Value>..\include\libraries\Servo\src\stm32f4</Value>
           </ListValues>
         </avrgcccpp.compiler.directories.IncludePaths>
         <avrgcccpp.compiler.optimization.OtherFlags>-fno-threadsafe-statics</avrgcccpp.compiler.optimization.OtherFlags>
@@ -255,14 +287,68 @@
     <Folder Include="include\libraries\Keypad\src\" />
     <Folder Include="include\libraries\LiquidCrystal\" />
     <Folder Include="include\libraries\LiquidCrystal\src\" />
+    <Folder Include="include\libraries\Servo\" />
+    <Folder Include="include\libraries\Servo\src\" />
+    <Folder Include="include\libraries\Servo\src\avr\" />
+    <Folder Include="include\libraries\Servo\src\mbed\" />
+    <Folder Include="include\libraries\Servo\src\megaavr\" />
+    <Folder Include="include\libraries\Servo\src\nrf52\" />
+    <Folder Include="include\libraries\Servo\src\samd\" />
+    <Folder Include="include\libraries\Servo\src\sam\" />
+    <Folder Include="include\libraries\Servo\src\stm32f4\" />
     <Folder Include="src\" />
     <Folder Include="src\libraries\" />
     <Folder Include="src\libraries\Keypad\" />
     <Folder Include="src\libraries\Keypad\src\" />
     <Folder Include="src\libraries\LiquidCrystal\" />
     <Folder Include="src\libraries\LiquidCrystal\src\" />
+    <Folder Include="src\libraries\Servo\" />
+    <Folder Include="src\libraries\Servo\src\" />
+    <Folder Include="src\libraries\Servo\src\avr\" />
+    <Folder Include="src\libraries\Servo\src\mbed\" />
+    <Folder Include="src\libraries\Servo\src\megaavr\" />
+    <Folder Include="src\libraries\Servo\src\nrf52\" />
+    <Folder Include="src\libraries\Servo\src\samd\" />
+    <Folder Include="src\libraries\Servo\src\sam\" />
+    <Folder Include="src\libraries\Servo\src\stm32f4\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Interrupt.cpp">
+      <SubType>compile</SubType>
+    </None>
+    <None Include="Formattedtext.cpp">
+      <SubType>compile</SubType>
+    </None>
+    <None Include="Serialevent.cpp">
+      <SubType>compile</SubType>
+    </None>
+    <None Include="Seriellogicanalyzer.cpp">
+      <SubType>compile</SubType>
+    </None>
+    <Compile Include="SerieleventOpgave.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="src\libraries\Servo\src\avr\Servo.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="src\libraries\Servo\src\mbed\Servo.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="src\libraries\Servo\src\megaavr\Servo.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="src\libraries\Servo\src\nrf52\Servo.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="src\libraries\Servo\src\samd\Servo.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="src\libraries\Servo\src\sam\Servo.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="src\libraries\Servo\src\stm32f4\Servo.cpp">
+      <SubType>compile</SubType>
+    </Compile>
     <None Include="String.cpp">
       <SubType>compile</SubType>
     </None>
@@ -299,9 +385,42 @@
     <None Include="Pointer.cpp">
       <SubType>compile</SubType>
     </None>
-    <Compile Include="Pointmath.cpp">
+    <None Include="Pointmath.cpp">
+      <SubType>compile</SubType>
+    </None>
+    <None Include="pointerarray.cpp">
+      <SubType>compile</SubType>
+    </None>
+    <None Include="Pointerrepitation.cpp">
+      <SubType>compile</SubType>
+    </None>
+    <Compile Include="include\libraries\Servo\src\avr\ServoTimers.h">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="include\libraries\Servo\src\mbed\ServoTimers.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="include\libraries\Servo\src\megaavr\ServoTimers.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="include\libraries\Servo\src\nrf52\ServoTimers.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="include\libraries\Servo\src\samd\ServoTimers.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="include\libraries\Servo\src\sam\ServoTimers.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="include\libraries\Servo\src\Servo.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="include\libraries\Servo\src\stm32f4\ServoTimers.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <None Include="Servo.cpp">
+      <SubType>compile</SubType>
+    </None>
     <Compile Include="src\libraries\Keypad\src\Key.cpp">
       <SubType>compile</SubType>
     </Compile>
