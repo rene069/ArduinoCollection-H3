@@ -2,11 +2,19 @@
 # Automatically-generated file. Do not edit or delete the file
 ################################################################################
 
+DHTtemp.cpp
+
+src\libraries\Adafruit_Unified_Sensor\Adafruit_Sensor.cpp
+
+src\libraries\DHT_sensor_library\DHT.cpp
+
+src\libraries\DHT_sensor_library\DHT_U.cpp
+
+src\libraries\DS3231\DS3231.cpp
+
 src\libraries\Wire\src\utility\twi.c
 
 src\libraries\Wire\src\Wire.cpp
-
-OLED.cpp
 
 src\libraries\Adafruit_BusIO\Adafruit_BusIO_Register.cpp
 
